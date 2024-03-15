@@ -1,0 +1,15 @@
+{
+    "name": "sschonss/php-chain-of-responsability",
+    "autoload": {
+        "psr-4": {
+            "Sschonss\\PhpChainOfResponsability\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sschonss",
+            "email": "sschonss@example.com"
+        }
+    ],
+    "require": {}
+}
